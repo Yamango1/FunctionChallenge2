@@ -15,8 +15,8 @@ EXECUTING PROGRAM
 Follow these steps to run the program:
 
 
-1. Compile the `ViewPureAndPayable.sol` file using the Solidity compiler.
-2. Deploy the compiled contract to a blockchain network using a tool like Remix or Truffle.
+1. Compile the file using the Solidity compiler.
+2. Deploy the compiled contract to a blockchain network.
 3. Interact with the deployed contract using its functions.
 
 HELP
